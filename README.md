@@ -14,7 +14,7 @@ Bu proje, 8, 16 ve 32 bitlik veriler üzerinde Hamming SEC-DED (Single Error Cor
 
 Ana ekran örneği:
 
-![Ana Ekran](ekran1.png)
+![Ana Ekran](Ekran görüntüsü)
 
 ## Kurulum
 
@@ -54,8 +54,4 @@ if syndrome != 0:
     self.show_result(result, bits=code, error_index=syndrome)
 ```
 
-## Katkı
-Pull request ve issue açabilirsiniz.
-
-## Lisans
-MIT 
+ 
