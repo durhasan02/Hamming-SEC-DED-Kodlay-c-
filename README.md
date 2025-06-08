@@ -14,9 +14,8 @@ Bu proje, 8, 16 ve 32 bitlik veriler üzerinde Hamming SEC-DED (Single Error Cor
 
 Ana ekran örneği:
 
-![Ana Ekran](�PNG
-
-)
+![Ana Ekran](https://github.com/durhasan02/Hamming-SEC-DED-Kodlay-c-/blob/eb61f4d3fd13ceb1916e7b03a7f7efad79b89f96/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC)
+
 
 ## Kurulum
 
