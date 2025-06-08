@@ -14,7 +14,9 @@ Bu proje, 8, 16 ve 32 bitlik veriler üzerinde Hamming SEC-DED (Single Error Cor
 
 Ana ekran örneği:
 
-![Ana Ekran](Ekran görüntüsü)
+![Ana Ekran](�PNG
+
+)
 
 ## Kurulum
 
